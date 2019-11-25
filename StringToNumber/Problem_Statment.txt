@@ -1,0 +1,14 @@
+You are given a camelcase string which you have to convert into its number representation.
+
+Input                            Output
+"oneTwoThreeOne"             1234
+"oneOneOne"                     111
+
+You need to write a function that takes a string and returns the number.
+If you are not able to get it to run, write the algorithm, and tell us why you couldn't write the program.
+
+stringToNumber (camelCaseString) {
+    < Your Code>
+}
+
+Language: Python
